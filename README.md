@@ -19,7 +19,7 @@ A stripped down version of Google Drive designed for personal use and localhosts
 
 
 ## Goals
-The goal of this project is to test custom synchronisation strategies
+The goal of this project is to test custom synchronisation strategies using grpc. ;)
 
 
 ## Disclaimers

@@ -3,19 +3,18 @@
 A stripped down version of Google Drive designed for personal use and localhosts. 
 
 ## Features
-[] Authentication
+- Authentication
     - Default administrator account
     - Sub accounts
     - Limited access sharing
-[] Upload file
+- Upload file
     - Auto sort file upon upload
     - Auto sync files across replica systems
-[] Download file
+- Download file
     
-[] Stream video files
-[] Auto sort file into Videos - Documents - Books - Archive and Audio
-[] Auto extract metadata from the books
-[] 
+- Stream video files
+- Auto sort file into Videos - Documents - Books - Archive and Audio
+- Auto extract metadata from the books
 
 
 ## Goals
